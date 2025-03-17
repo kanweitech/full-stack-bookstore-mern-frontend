@@ -1,5 +1,5 @@
 const getBaseUrl = () => {
-    return "http://localhost:5000"
+    return "https://full-stack-bookstore-mern-backend.vercel.app"
 }
 
 export default getBaseUrl;
